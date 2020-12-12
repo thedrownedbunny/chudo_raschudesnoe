@@ -7,11 +7,12 @@
 Cпарсить данные:
 
 Политические индексы
-  1. Democracy-Dictatorship IndexFragile State Index, 
-  2. CPI, 
-  3. Democracy Index, 
-  4. WJP, 
-  5. Government effectiveness
+  1. Democracy-Dictatorship Index, 
+  2. Fragile State Index, 
+  3. CPI, 
+  4. Democracy Index, 
+  5. WJP, Government 
+  6. effectiveness
 
 Социо-экономические индексы:
   1. WB Indicators,
