@@ -1,4 +1,4 @@
-# chudo_raschudesnoe
+# Чудо расчудесное или агрегируем кучу индексов в один
 
 Наша с вами замечательная программка, через которую можно смотреть разные индексы
 
@@ -11,8 +11,8 @@ Cпарсить данные:
   2. Fragile State Index, 
   3. CPI, 
   4. Democracy Index, 
-  5. WJP, Government 
-  6. effectiveness
+  5. WJP, 
+  6. Government effectiveness
 
 Социо-экономические индексы:
   1. WB Indicators,
