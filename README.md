@@ -4,16 +4,16 @@
 
 Вещи, которые надо сделать:
 Cпарсить данные:
-  1. Политические индексы
-  * Democracy-Dictatorship IndexFragile State Index, 
-  * CPI, 
-  * Democracy Index, 
-  * WJP, 
-  * Government effectiveness
-  2. Социо-экономические индексы:
-  * WB Indicators,
-  * Economic Complexity Index, 
-  * Index of Economic Freedom
+1. Политические индексы
+ 1. Democracy-Dictatorship IndexFragile State Index, 
+ 2. CPI, 
+ 3. Democracy Index, 
+ 4. WJP, 
+ 5. Government effectiveness
+2. Социо-экономические индексы:
+ 1. WB Indicators,
+ 2. Economic Complexity Index, 
+ 3. Index of Economic Freedom
 
 Скомпоновать их в удобоваримый вид (напоминаю, датафрейм с **политическими** индексами записываем в переменную **pol**, а с **социо-экономическими** - в переменную **soc**)
 
