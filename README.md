@@ -12,7 +12,7 @@ Cпарсить данные:
   3. CPI, 
   4. Democracy Index, 
   5. WJP, 
-  6. Government effectiveness
+  6. Government effectiveness *сделано*
 
 Социо-экономические индексы:
   1. WB Indicators,
