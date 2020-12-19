@@ -9,10 +9,10 @@
 Cпарсить данные:
 
 Политические индексы
-  1. Democracy-Dictatorship Index, 
-  2. Fragile State Index, 
+  1. Democracy-Dictatorship Index, **не делаем**
+  2. Fragile State Index, **не делаем**
   3. CPI, 
-  4. Democracy Index, 
+  4. Democracy Index, **не делаем**
   5. WJP, 
   6. Government effectiveness *сделано*
 
